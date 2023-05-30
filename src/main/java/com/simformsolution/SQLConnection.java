@@ -16,7 +16,7 @@ public class SQLConnection {
     String password = "Parth@1988";
 
 
-    Product product = new Product(103 , "RFile" , 3000 , 1);
+    Product product = new Product(104 , "Maven" , 40000 , 2);
     int id = product.getProductId();
     String name = product.getProductName();
     float price = product.getProductPrice();
